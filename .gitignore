@@ -1,0 +1,8 @@
+#Cypress artefacts
+/cypress/downloads/
+/cypress/screenshots/
+/cypress/videos/
+/cypress/logs/
+
+# dependencies
+node_modules
